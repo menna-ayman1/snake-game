@@ -27,9 +27,9 @@ When I was a kid, I always got frustrated whenever the snake died from biting it
 1. Make sure Python 3 is installed
 2. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/snake-game-python.git
-   cd snake-game-python
-   ```
+  git clone https://github.com/menna-ayman1/snake-game.git
+cd snake-game
+```
 3. Run the game:
    ```bash
    python snake.py
@@ -44,10 +44,16 @@ When I was a kid, I always got frustrated whenever the snake died from biting it
 | ← | Move Left |
 | → | Move Right |
 
-## 📌 Notes
+## 📌 Notes  
 
 - Hitting the wall resets the game (score returns to 0, high score is kept).
 - Eating food increases your score by 10 and speeds up the snake slightly.
+
+
+## 🎮 Screenshots
+
+<img width="1366" height="768" alt="screenshot4 png" src="https://github.com/user-attachments/assets/2dd1db0a-f5ce-4b55-8ca1-656d6a250e27" />
+
 
 ## 👩‍💻 Author
 
